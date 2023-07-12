@@ -1,0 +1,25 @@
+{
+  "name": "find-my-hostel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atksreerag/Find-my-hostel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atksreerag/Find-my-hostel/issues"
+  },
+  "homepage": "https://github.com/atksreerag/Find-my-hostel#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.3",
+    "winston": "^3.10.0"
+  }
+}
